@@ -46,6 +46,6 @@ Easily available dataset
 
 ## Cons
 
-The only disadvantage faced till now is the distinguishing between the digits 3 and 8. If anyone can come up witha feasible solution I am open to collaboration.
+The only disadvantage faced till now is the distinguishing between the digits 3 and 8. If anyone can come up with a feasible solution I am open to collaboration.
 
 # Thank you for stopping by!
