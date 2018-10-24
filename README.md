@@ -17,4 +17,8 @@ Runs seamlessly on CPU and GPU.
 
 #### Read the documentation at Keras.io.
 
- 
+## What is Tensorflow?
+
+Tensorflow is an open-source machine learning framework for everyone.  
+TensorFlow is an open-source software library for dataflow programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. It is used for both research and production at Google, often replacing its closed-source predecessor, DistBelief.  
+
