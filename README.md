@@ -28,3 +28,11 @@ TensorFlow is cross-platform. It runs on nearly everything: GPUs and CPUs—incl
 
 ## The code workflow
 
+1. Import Tensorflow library   
+2. Unpack the dataset  
+3. Visulaise the data  
+4. Normalise the dataset  
+5. Build the model architecture  
+6. Make the Deep NN  
+7. Train the Deep NN  
+8. Evaluate and test the Deep NN  
