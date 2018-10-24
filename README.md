@@ -40,3 +40,10 @@ TensorFlow is cross-platform. It runs on nearly everything: GPUs and CPUs—incl
 
 ## Pros
 
+Easy to understand  
+Easy to implement  
+Easily available dataset  
+
+## Cons
+
+The only disadvantage faced till now is the distinguishing between the digits 3 and 8. If anyone can come up witha feasible solution I am open to collaboration.
