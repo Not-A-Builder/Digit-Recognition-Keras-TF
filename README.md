@@ -38,3 +38,5 @@ TensorFlow is cross-platform. It runs on nearly everything: GPUs and CPUs—incl
 8. Evaluate and test the Deep NN  
 9. Predict new results.  
 
+## Pros
+
